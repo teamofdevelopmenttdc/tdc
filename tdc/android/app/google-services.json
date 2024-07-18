@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10697205840",
+    "project_id": "tdcapp-daa22",
+    "storage_bucket": "tdcapp-daa22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10697205840:android:78eccf2ac2e81537388955",
+        "android_client_info": {
+          "package_name": "com.example.tdc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_TpCLqtfpj1BF1DxdZRHEolfiyHmQdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
